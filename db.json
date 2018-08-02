@@ -1,4 +1,4 @@
-[{
+{
     "id": "1",
     "subject": "Math",
     "question_text": "<p>The greatest common factor of 24 and 72 is __________.</p>",
@@ -19,4 +19,4 @@
     "Grade": "6",
     "option_B": "<p>36</p>",
     "sub_topic": "Factors and Multiples"
-  }]
+  }
