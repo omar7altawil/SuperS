@@ -1,0 +1,22 @@
+[{
+    "id": "1",
+    "subject": "Math",
+    "question_text": "<p>The greatest common factor of 24 and 72 is __________.</p>",
+    "question_picture": "url",
+    "arabic_translation_of_question": "arabic_translation of question",
+    "chapter_name_topic": "Ratios and Rates",
+    "duration": "10",
+    "justification": "<p>The ratio of the number of boys to the number of girls in a school of 672 students is 5 : 7. When some new boys and girls are admitted, the number of girls increases by 8 and the ratio of boys to girls changes to 3 : 4. Calculate the number of new boys admitted.</p>",
+    "hint": "<p>Write an algebraic expression for: 2 times the sum of 3 squared and 2 cubed</p>",
+    "arabic_translation_of_hint": "arabic_translation of hint",
+    "option_A": "<p>24</p>",
+    "option_C": "<p>72</p>",
+    "option_D": "<p>40</p>",
+    "correct_options": "a",
+    "difficulty_level": "easy",
+    "Type_question": "pracgtice",
+    "skill_profile": "html",
+    "Grade": "6",
+    "option_B": "<p>36</p>",
+    "sub_topic": "Factors and Multiples"
+  }]
