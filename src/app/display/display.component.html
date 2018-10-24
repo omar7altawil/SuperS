@@ -1,0 +1,23 @@
+<ul>
+  <li *ngFor="let room of rooms ">
+    <!-- Delete -->
+    <mat-card-actions>
+      <button  (click)="delete(room.RoomName)" mat-mini-fab color="primary"><i class="material-icons">delete</i></button>
+    </mat-card-actions>
+    <!-- Edit -->
+    <mat-card-actions>
+      <button  mat-mini-fab color="warn" routerLink="form/edit/{{room.RoomName}}" ><i class="material-icons">edit</i></button>
+    </mat-card-actions>
+    <!-- RoomName -->
+    <span id="info">
+        <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title class='htmlquestion'[innerHTML]='room.RoomName'></mat-card-title>
+      </mat-card-header>
+    </span>  
+    <!-- Descrption -->
+    <span class=def>Descrption:</span>
+    <span [innerHTML]='room.Descrption' ></span>
+    <br>
+  </li>
+</ul>
