@@ -1,2 +1,2 @@
 # SuperS
-my capstone
+capstone
