@@ -1,2 +1,2 @@
 # SuperS
-capston
+capstone
