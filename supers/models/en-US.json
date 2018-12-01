@@ -2,7 +2,7 @@
 	"invocation": "my test app",
 	"intents": [
 		{
-			"name": "HelloIntent",
+			"name": "HelloWorldIntent",
 			"phrases": [
 				"hello",
 				"say hello",
