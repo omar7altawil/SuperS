@@ -1,2 +1,0 @@
-# SuperS
-capstone
