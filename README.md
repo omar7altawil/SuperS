@@ -14,19 +14,32 @@ a device on or off.
 
 # Hardware
 1-BME280.
+
 2-Flame Sensor.
+
 3-LSM9DS1.
+
 4-SPH0645.
+
 5-TSL2561.
 
 # Procedure
 1-Machine Learning
+
    a-collecting the data.
+
    b-Storing the data.
+
    c-Training the data set.
+
 2-Monitoring
+
    a-collecting the data.
+
    b-stor in Firebase.
+
    d-display on the Mobile App.
-   
+
+
+
 Note:for full documentation please read Project.pdf
