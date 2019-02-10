@@ -25,19 +25,13 @@ a device on or off.
 
 # Procedure
 1-Machine Learning
-
    a-collecting the data.
-
    b-Storing the data.
-
    c-Training the data set.
 
 2-Monitoring
-
    a-collecting the data.
-
    b-stor in Firebase.
-
    d-display on the Mobile App.
 
 
