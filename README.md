@@ -1,5 +1,6 @@
 # SuperS
 ![alt text](https://static.thenounproject.com/png/421-200.png)
+
 This project is driven from the idea of having a smart home.A smart home is
 a house which is equipped with lighting, heating, and electronic devices that
 can be controlled remotely either by a smart phone or a computer.In order to
